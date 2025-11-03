@@ -31,13 +31,13 @@ I thrive on continuous learning, collaboration, and projects that create real im
 - *Software & Environments:* Excel , Power BI / Tableau, Jupyter Notebook, Google Colab, GitHub / Git & Anaconda
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="50" height="50" style="margin-right:10px;"/>
+    <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50" style="margin-right:10px;"/>
   </a>
   <a href="https://powerbi.microsoft.com/" title="Power BI">
-    <img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" width="50" height="50" style="margin-right:10px;"/>
+    <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50" style="margin-right:10px;"/>
   </a>
   <a href="https://www.tableau.com/" title="Tableau">
-    <img src="https://cdn.simpleicons.org/tableau" alt="Tableau" width="50" height="50" style="margin-right:10px;"/>
+    <img src="https://img.icons8.com/color/512/tableau-software.png" alt="Tableau" width="50" height="50" style="margin-right:10px;"/>
   </a>
   <a href="https://jupyter.org/" title="Jupyter Notebook">
     <img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter Notebook" width="50" height="50" style="margin-right:10px;"/>
@@ -79,7 +79,7 @@ I thrive on continuous learning, collaboration, and projects that create real im
 - 🏡 *Nigeria House Price Prediction Model*  
   Built a regression model to predict housing prices using EDA and feature engineering.  
   Tools: Python, Pandas, Scikit-learn, Matplotlib  
-  → [View Project](https://github.com/Taiwo11/Ngerian-House-Price-Prediction-Model)
+  → [View Project](https://github.com/Taiwo11/Ngerian-House-Price-Prediction-Model....)
 
 ---
 

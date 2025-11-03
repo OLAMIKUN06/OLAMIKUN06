@@ -1,29 +1,8 @@
 <h1 align="center">Hi there, I'm Disu Kehinde Martha 👋</h1>
 <h1 align="center">
   Hi there, I'm Disu Kehinde Martha
-  <span class="wave">👋</span>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand">
 </h1>
-
-<style>
-.wave {
-  animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 <p align="center">
 Data Scientist | Data Analyst| Biochemist | Data Suave

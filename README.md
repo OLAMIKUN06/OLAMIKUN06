@@ -21,7 +21,7 @@ I thrive on continuous learning, collaboration, and projects that create real im
 
 ### 🧠 Technical Skills
 
-- *Languages & Frameworks:* Python, SQL & Pandas, NumPy, Matplotlib / Seaborn, Scikit-learn
+- *🛠Languages & Frameworks:* Python, SQL & Pandas, NumPy, Matplotlib / Seaborn, Scikit-learn
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
@@ -31,7 +31,7 @@ I thrive on continuous learning, collaboration, and projects that create real im
   <img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" width="50" height="50"/>
 </p>
     
-- *Software & Environments:* Excel , Power BI / Tableau, Jupyter Notebook, Google Colab, GitHub / Git & Anaconda
+- *🧰Software & Environments:* Excel , Power BI / Tableau, Jupyter Notebook, Google Colab, GitHub / Git & Anaconda
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel">
     <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50" style="margin-right:10px;"/>
@@ -56,7 +56,7 @@ I thrive on continuous learning, collaboration, and projects that create real im
   </a>
 </p>
 
-- *Core Focus:* Data Cleaning, Exploratory Data Analysis (EDA), Statistical & Predictive Modeling, Reporting, Storytelling with data
+- *🧠Core Focus:* Data Cleaning, Exploratory Data Analysis (EDA), Statistical & Predictive Modeling, Reporting, Storytelling with data
 <p align="left">
   <a title="Data Cleaning">
     <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" alt="Data Cleaning" width="50" height="50" style="margin-right:15px;"/>

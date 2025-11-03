@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Disu Kehinde Martha 👋</h1>
 <h1 align="center">
   Hi there, I'm Disu Kehinde Martha
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="waving hand">

@@ -79,9 +79,9 @@ I thrive on continuous learning, collaboration, and projects that create real im
 
 ### 📁 Featured Projects
 
-- 🏡 *Nigeria House Price Prediction Model*  
-  Built a regression model to predict housing prices using EDA and feature engineering.  
-  Tools: Python, Pandas, Scikit-learn, Matplotlib  
+- 🏆 *Retail Hub Sales Analytics*  
+  I analyzed a retail sales dataset using MySQL and Python (Pandas, Matplotlib, Seaborn) to answer key business questions.
+  A complete end-to-end data analytics project using SQL and Python to explore sales performance, identify top-selling products, evaluate customer behavior, and uncover trends and insights to support data-driven decisions.
   → [View Project](https://github.com/Taiwo11/Ngerian-House-Price-Prediction-Model....)
 
 ---

@@ -11,7 +11,7 @@ Data Scientist | Data Analyst| Biochemist | Data Suave
 
 ### 👩‍🔬 About Me
 
-Data Scientist with a background in Biochemistry and a Diploma in Data Science from AltSchool Africa. Passionate about turning raw data into actionable insights that drive real-world impact.My journey bridges the gap between science and technology — transforming raw data into meaningful insights that drive smarter decisions.
+Data Analyst with a background in Biochemistry and a Diploma in Data Science from AltSchool Africa. Passionate about turning raw data into actionable insights that drive real-world impact.My journey bridges the gap between science and technology — transforming raw data into meaningful insights that drive smarter decisions.
 
 I’m passionate about leveraging data analytics, visualization, and predictive modeling to solve real-world problems, especially in healthcare, finance, and consumer industries.
 

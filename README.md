@@ -22,6 +22,7 @@ I thrive on continuous learning, collaboration, and projects that create real im
 ### 🧠 Technical Skills
 
 - *🛠Languages & Frameworks:* Python, SQL & Pandas, NumPy, Matplotlib / Seaborn, Scikit-learn
+
 </p>
 
 <p align="left">

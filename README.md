@@ -22,15 +22,16 @@ I thrive on continuous learning, collaboration, and projects that create real im
 ### 🧠 Technical Skills
 
 - *🛠Languages & Frameworks:* Python, SQL & Pandas, NumPy, Matplotlib / Seaborn, Scikit-learn
+</p>
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/scikitlearn" alt="Scikit-learn" width="50" height="50"/>
-</div>
+</p>
     
 - *🧰Software & Environments:* Excel , Power BI / Tableau, Jupyter Notebook, Google Colab, GitHub / Git & Anaconda
 <p align="left">

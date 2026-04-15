@@ -23,9 +23,6 @@ I thrive on continuous learning, collaboration, and projects that create real im
 
 **🛠Languages & Frameworks:**
 Python, SQL & Pandas, NumPy, Matplotlib / Seaborn, Scikit-learn
-
-</p>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>

@@ -33,6 +33,7 @@ I thrive on continuous learning, collaboration, and projects that create real im
   </p>
     
 - *🧰Software & Environments:* Excel , Power BI / Tableau, Jupyter Notebook, Google Colab, GitHub / Git & Anaconda
+
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel">
     <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>

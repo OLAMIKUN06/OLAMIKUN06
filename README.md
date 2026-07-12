@@ -36,7 +36,6 @@ I thrive on continuous learning, collaboration, and projects that create real im
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel">
     <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50" style="margin-right:10px;"/>
-  </a>
   <a href="https://powerbi.microsoft.com/" title="Power BI">
     <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50" style="margin-right:10px;"/>
   </a>

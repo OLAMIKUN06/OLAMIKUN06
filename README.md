@@ -83,8 +83,8 @@ I thrive on continuous learning, collaboration, and projects that create real im
 - 🏆 *Retail Hub Sales Analytics*  
 → [View Project](https://github.com/OLAMIKUN06/Retail-Hub-Sales-Analytics)
 
-- 🧠 *Addictive Patterns and Behavioral Insights* 
-→ [View Project](https://github.com/OLAMIKUN06/Retail-Hub-Sales-Analytics)
+- 🧠 *Addictive Patterns and Behavioral Insights*
+→ [View Project](https://github.com/OLAMIKUN06/Addictive-Patterns-and-Behavioral-Insights-Analysis)
 
 ---
 

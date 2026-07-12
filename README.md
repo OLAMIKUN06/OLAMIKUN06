@@ -11,7 +11,7 @@ Data Scientist | Data Analyst| Biochemist | Data Suave
 
 ### 👩‍🔬 About Me
 
-Data Analyst with a background in Biochemistry and a Diploma in Data Science from AltSchool Africa. Passionate about turning raw data into actionable insights that drive real-world impact.My journey bridges the gap between science and technology — transforming raw data into meaningful insights that drive smarter decisions.
+Data Analyst with a background in Biochemistry and a Diploma in Data Science from AltSchool Africa. Passionate about turning raw data into actionable insights that drive real world impact.My journey bridges the gap between science and technology transforming raw data into meaningful insights that drive smarter decisions.
 
 I’m passionate about leveraging data analytics, visualization, and predictive modeling to solve real-world problems, especially in healthcare, finance, and consumer industries.
 
@@ -81,9 +81,10 @@ I thrive on continuous learning, collaboration, and projects that create real im
 ### 📁 Featured Projects
 
 - 🏆 *Retail Hub Sales Analytics*  
-  I analyzed a retail sales dataset using MySQL and Python (Pandas, Matplotlib, Seaborn) to answer key business questions.
-  A complete end-to-end data analytics project using SQL and Python to explore sales performance, identify top-selling products, evaluate customer behavior, and uncover trends and insights to support data-driven decisions.
-  → [View Project](https://github.com/OLAMIKUN06/Retail-Hub-Sales-Analytics)
+→ [View Project](https://github.com/OLAMIKUN06/Retail-Hub-Sales-Analytics)
+
+- 🧠 *Addictive Patterns and Behavioral Insights* 
+→ [View Project](https://github.com/OLAMIKUN06/Retail-Hub-Sales-Analytics)
 
 ---
 

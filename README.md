@@ -35,9 +35,10 @@ I thrive on continuous learning, collaboration, and projects that create real im
 - *🧰Software & Environments:* Excel , Power BI / Tableau, Jupyter Notebook, Google Colab, GitHub / Git & Anaconda
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel">
-    <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50" style="margin-right:10px;"/>
+    <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
+  </a>
   <a href="https://powerbi.microsoft.com/" title="Power BI">
-    <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50" style="margin-right:10px;"/>
+    <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="50" height="50"/>
   </a>
   <a href="https://www.tableau.com/" title="Tableau">
     <img src="https://img.icons8.com/color/512/tableau-software.png" alt="Tableau" width="50" height="50" style="margin-right:10px;"/>

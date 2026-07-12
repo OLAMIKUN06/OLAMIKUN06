@@ -85,10 +85,10 @@ I thrive on continuous learning, collaboration, and projects that create real im
 → [View Project](https://github.com/OLAMIKUN06/Retail-Hub-Sales-Analytics)
 
 - 🧠 *Addictive Patterns and Behavioral Insights*  
-→ [View Project](https://github.com/OLAMIKUN06/Addictive-Patterns-and-Behavioral-Insights-Analysis) In View
+→ [View Project](https://github.com/OLAMIKUN06/Addictive-Patterns-and-Behavioral-Insights-Analysis)
 
 - 🏆 *Optimizing Logistics Network Performance: Cost Efficiency, Delivery Reliability and Predictive Risk Model*  
-→ [View Project](https://github.com/OLAMIKUN06/Optimizing-Logistics-Network-Performance--Cost-Efficiency-Delivery-Reliability-Predictive-Risk-Model)
+→ [View Project](https://github.com/OLAMIKUN06/Optimizing-Logistics-Network-Performance--Cost-Efficiency-Delivery-Reliability-Predictive-Risk-Model) In view
 
 ---
 
